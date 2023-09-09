@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "here"
-    url: https://github.com/hajinryu
+  - title: "About"
+    url: /about
+  - title: "Category"
+    url: /categories/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
