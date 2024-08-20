@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a388422-0701-4c5c-aedb-65fdcbcc8277" name="Changes" comment="[study] : real mysql 환경설정">
+      <change beforePath="$PROJECT_DIR$/_posts/2023-11-19-realmysql(1).md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-11-19-realmysql(1).md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="9d347848-e6f6-4fe6-84b2-7ab9a465f2c9" />
+        <option name="url" value="https://github.com/hajinryu/hajinryu.github.io.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2V9uIG6CLx2KBksznWG1pADWS2s" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ryu/workspce/hajinryu.github.io/_posts&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="hajinryu.github.io" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="hajinryu.github.io" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a388422-0701-4c5c-aedb-65fdcbcc8277" name="Changes" comment="" />
+      <created>1694260535094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694260535094</updated>
+      <workItem from="1694260538075" duration="1941000" />
+      <workItem from="1694262502717" duration="8780000" />
+      <workItem from="1700393623812" duration="4286000" />
+      <workItem from="1715169399081" duration="40000" />
+    </task>
+    <task id="LOCAL-00001" summary="[cfg] : yml 수정">
+      <created>1694260804081</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694260804081</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[cfg] : 환경설정">
+      <created>1694261528147</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694261528147</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[cfg] : 우측 상단 nav 변경">
+      <created>1694261710751</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694261710751</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[cfg] : post 내용 수정">
+      <created>1694262159940</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694262159940</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[cfg] : footer feed 아이콘 삭제">
+      <created>1694262401984</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1694262401984</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[cfg] : footer 아이콘 삭제">
+      <created>1694262657548</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1694262657548</updated>
+    </task>
+    <task id="LOCAL-00007" summary="[cfg] : setting">
+      <created>1694262734048</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1694262734048</updated>
+    </task>
+    <task id="LOCAL-00008" summary="[cfg] : setting theme">
+      <created>1694262857843</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1694262857843</updated>
+    </task>
+    <task id="LOCAL-00009" summary="[cfg] : setting theme">
+      <created>1694263743548</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1694263743548</updated>
+    </task>
+    <task id="LOCAL-00010" summary="[cfg] : setting theme">
+      <created>1694263891850</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1694263891850</updated>
+    </task>
+    <task id="LOCAL-00011" summary="[cfg] : setting theme">
+      <created>1694265098196</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1694265098196</updated>
+    </task>
+    <task id="LOCAL-00012" summary="[cfg] : setting 댓글기능">
+      <created>1694266387659</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1694266387659</updated>
+    </task>
+    <task id="LOCAL-00013" summary="[cfg] : setting 댓글기능">
+      <created>1694266913975</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1694266913975</updated>
+    </task>
+    <task id="LOCAL-00014" summary="[cfg] : setting 댓글기능">
+      <created>1694268112635</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1694268112635</updated>
+    </task>
+    <task id="LOCAL-00015" summary="[cfg] : setting 댓글기능">
+      <created>1694268869115</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1694268869115</updated>
+    </task>
+    <task id="LOCAL-00016" summary="[cfg] : setting 댓글기능">
+      <created>1694269125838</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1694269125838</updated>
+    </task>
+    <task id="LOCAL-00017" summary="[cfg] : setting theme">
+      <created>1694269190867</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1694269190867</updated>
+    </task>
+    <task id="LOCAL-00018" summary="[cfg] : setting theme">
+      <created>1694270221952</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1694270221952</updated>
+    </task>
+    <task id="LOCAL-00019" summary="[cfg] : setting theme">
+      <created>1694270453698</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1694270453698</updated>
+    </task>
+    <task id="LOCAL-00020" summary="[study] : real mysql 환경설정">
+      <created>1700397314042</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1700397314042</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[cfg] : yml 수정" />
+    <MESSAGE value="[cfg] : 환경설정" />
+    <MESSAGE value="[cfg] : 우측 상단 nav 변경" />
+    <MESSAGE value="[cfg] : post 내용 수정" />
+    <MESSAGE value="[cfg] : footer feed 아이콘 삭제" />
+    <MESSAGE value="[cfg] : footer 아이콘 삭제" />
+    <MESSAGE value="[cfg] : setting" />
+    <MESSAGE value="[cfg] : setting 댓글기능" />
+    <MESSAGE value="[cfg] : setting theme" />
+    <MESSAGE value="[study] : real mysql 환경설정" />
+    <option name="LAST_COMMIT_MESSAGE" value="[study] : real mysql 환경설정" />
+  </component>
+</project>
